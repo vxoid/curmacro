@@ -1,0 +1,10 @@
+[package]
+name = "curmacro"
+version = "1.0.0"
+edition = "2021"
+license = "Apache-2.0"
+documentation = "https://docs.rs/curmacro"
+repository = "https://github.com/CURVoid/curmacro.git"
+homepage = "https://github.com/CURVoid/curmacro.git"
+keywords = ["curmacro", "macro", "setter", "getter"]
+description = "Crate with usefull macros like struct getters and setters creation macros"
